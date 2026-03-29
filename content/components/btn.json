@@ -1,0 +1,8 @@
+{
+  "name": "Button",
+  "slug": "btn",
+  "category": "button",
+  "description": "Its a button",
+  "code": "<lds-btn>Button</lds-btn>",
+  "props": "{\n\n  \"variant\": \"primary | secondary | tertiary\",\n\n  \"size\": \"sm | md | lg\",\n\n  \"disabled\": \"boolean\",\n\n}"
+}
