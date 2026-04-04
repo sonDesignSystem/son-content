@@ -3,6 +3,6 @@
   "slug": "alert",
   "category": "alert",
   "description": "It alerts Users of something happening lol",
-  "code": "This is a alert",
+  "code": "<lds-alert>dis a alert?</lds-alert>",
   "props": "{  \"variant\": \"primary | secondary | tertiary\",  \"size\": \"sm | md | lg | xl\",  \"disabled\": \"boolean\"}"
 }
