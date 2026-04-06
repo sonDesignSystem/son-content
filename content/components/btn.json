@@ -4,5 +4,5 @@
   "category": "button",
   "description": "Its a very cool button",
   "code": "```\n<lds-btn>Button</lds-btn>\n```\n\n",
-  "props": "{\n\n  \"variant\": \"primary | secondary | tertiary\",\n\n  \"size\": \"sm | md | lg\",\n\n  \"disabled\": \"boolean\",\n\n  \"rounded\": \"boolean\"\n\n}"
+  "props": "{\n\n  \"variant\": \"primary | secondary | tertiary | default:primary\",\n\n  \"size\": \"sm | md | lg | default:md\",\n\n  \"disabled\": \"boolean\",\n\n  \"rounded\": \"boolean\"\n\n}"
 }
