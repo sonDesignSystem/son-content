@@ -2,7 +2,7 @@
   "name": "Alert",
   "slug": "alert",
   "category": "alert",
-  "description": "It alerts Users of something happening lol",
-  "code": "<lds-alert>dis a alert?</lds-alert>",
+  "description": "It alerts Users of something happening lol right?",
+  "code": "```\n<lds-alert>This is a Alert.</lds-alert>\n```\n\n",
   "props": "{  \"variant\": \"primary | secondary | tertiary\",  \"size\": \"sm | md | lg | xl\",  \"disabled\": \"boolean\"}"
 }
