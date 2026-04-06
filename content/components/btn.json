@@ -3,6 +3,6 @@
   "slug": "btn",
   "category": "button",
   "description": "Its a very cool button",
-  "code": "<lds-btn>dis def a btn!</lds-btn>",
+  "code": "```\n<lds-btn>Button</lds-btn>\n```\n\n",
   "props": "{\n\n  \"variant\": \"primary | secondary | tertiary\",\n\n  \"size\": \"sm | md | lg | xl\",\n\n  \"disabled\": \"boolean\",\n\n  \"rounded\": \"boolean\"\n\n}"
 }
