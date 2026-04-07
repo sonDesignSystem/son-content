@@ -3,5 +3,5 @@
   "slug": "card",
   "category": "component",
   "description": "Its a card that can have a lot of different variations",
-  "code": "<lds-card>this code is totally fake btw</lds-card>"
+  "code": "```\n<lds-card>this code is fake btw</lds-card>\n```\n\n"
 }
