@@ -3,5 +3,6 @@
   "slug": "card",
   "category": "card",
   "description": "Its a card that can have a lot of different variations",
-  "code": "```\n<lds-card>this code is fake btw</lds-card>\n```\n\n"
+  "code": "```\n<lds-card>this code is fake btw</lds-card>\n```\n\n",
+  "props": "{\n\n\"variant\": \"normal | quick note\",\n\n\"image\": \"boolean\",\n\n\"alert\": \"boolean\"\n\n}"
 }
