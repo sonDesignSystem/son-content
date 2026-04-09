@@ -4,5 +4,5 @@
   "category": "alert",
   "description": "It alerts Users of something happening lol right?",
   "code": "```\n<lds-alert>This is a Alert.</lds-alert>\n```\n\n",
-  "props": "{  \"variant\": \"danger| info | success | warning | test\",  \"size\": \"sm | md | lg | xl\",  \"disabled\": \"boolean\"}"
+  "props": "{  \"variant\": \"danger| info | success | warning\",  \"size\": \"sm | md | lg | xl\",  \"disabled\": \"boolean\"}"
 }
