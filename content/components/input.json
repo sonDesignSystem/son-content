@@ -1,0 +1,8 @@
+{
+  "name": "Input",
+  "slug": "input",
+  "category": "input",
+  "description": "Its a input where the use can put text, numbers, etc..!",
+  "code": "```\n<ldsInput placeholder=\"Input here...\" />\n```\n\n",
+  "props": "{\"type\": \"Text | Password | Radio | Check\"}"
+}
