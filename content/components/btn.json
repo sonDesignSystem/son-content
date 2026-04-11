@@ -1,6 +1,6 @@
 {
   "name": "Button",
-  "slug": "btn",
+  "slug": "button",
   "category": "button",
   "description": "Its a very cool button",
   "code": "```\n<lds-btn>Button</lds-btn>\n```\n\n",
