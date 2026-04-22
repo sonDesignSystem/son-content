@@ -1,7 +1,7 @@
 {
   "name": "Card",
   "slug": "card",
-  "category": "card",
+  "category": "atoms > card",
   "description": "Its a card that can have a lot of different variations",
   "code": "```\n<lds-card>this code is fake btw if this shows up is working</lds-card>\n```\n\n",
   "props": "{\n\n\"variant\": \"normal | quick note\",\n\n\"image\": \"boolean\",\n\n\"alert\": \"boolean\"\n\n}"
