@@ -1,4 +1,7 @@
-media: media
+media:
+  input: media
+  output: media
+
 content:
   - name: components
     label: Components
@@ -8,7 +11,7 @@ content:
     subfolders: true
     filename: '{fields.slug}.json'
     view:
-      fields: [ name, category ]
+      fields: [name, category]
     fields:
       - { name: name, label: Name, type: string }
       - { name: slug, label: Slug, type: string }
@@ -25,7 +28,23 @@ content:
     format: json
     filename: '{fields.name}.json'
     fields:
-      - { name: name, label: Token Name, type: string }
-      - { name: type, label: Type (color), type: string }
-      - { name: value, label: Value, type: string }
-      - { name: description, label: Description, type: string }
+      - name: name
+        type: string
+
+      - name: tables
+        type: object
+        list: true
+        fields:
+          - name: name
+            type: string
+
+          - name: values
+            type: object
+            list: true
+            fields:
+              - name: name
+                type: string
+              - name: value
+                type: string
+              - name: description
+                type: string
