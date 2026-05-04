@@ -3,6 +3,6 @@
   "slug": "input",
   "category": "atoms > input",
   "description": "Its a input where the use can put text, numbers, etc..!",
-  "code": "```\n<ldsInput placeholder=\"Input here...\" />\n```\n\n",
+  "code": "```\n<ldsInput placeholder=\"Input here...\" />\n```\n\n<SDSInput>Name...</SDSInput>",
   "props": "{\"type\": \"Text | Password | Radio | Check\"}"
 }
