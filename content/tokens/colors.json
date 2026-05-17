@@ -18,6 +18,11 @@
           "name": "Neutral",
           "value": "#f1f1f1f",
           "description": "Body text color."
+        },
+        {
+          "name": "Muted Text",
+          "value": "hsl(0, 0%, 60%)",
+          "description": "The color for muted text"
         }
       ]
     }
