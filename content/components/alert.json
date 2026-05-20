@@ -3,6 +3,6 @@
   "slug": "alert",
   "category": "atoms > alert",
   "description": "It alerts Users of something happening lol right?",
-  "code": "<SDSAlert>alert here</SDSAlert>",
-  "props": "{  \"variant\": \"danger | info | success | warning\",  \"size\": \"sm | md | lg | xl\",  \"disabled\": \"boolean\", \"mini\": \"boolean\"}"
+  "code": "alert here",
+  "props": "{  \"variant\": \"danger | info | success | warning\",  \"size\": \"sm | md | lg | xl\",  \"mini\": \"boolean\"}"
 }
